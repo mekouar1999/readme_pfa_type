@@ -35,22 +35,40 @@ Lien_projet ou je peux voir le kanban,roadmap et taches
 - [MongoDb](https://www.mongodb.com/)
 - [TailWind](https://tailwindcss.com/)
 
-## Installation
+## Installation et Execution de l'application web
 
-[Node.js](https://nodejs.org/) est requis pour pouvoir exécuter cette application. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+[Node.js](https://nodejs.org/) est requis pour pouvoir exécuter cette application. C'est le back end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
 
 ```sh
 npm install
 
 ```
 
-### Execution de l'application web
-
-Enfin l'execution de l'application web NOM_APPLICATION grâce à la commande ci-dessous :
+Puis pour lancer l'applica(ion coté back lancez la commande : 
 
 ```sh
-node start
+npm start
+
 ```
+
+Par la suite passez sur le port 3000 sur le Browser.
+
+[ReactJS](https://reactjs.org/) est requis pour pouvoir exécuter cette application. C'est le front end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+
+```sh
+npm install
+
+```
+
+Puis pour lancer l'applica(ion coté front lancez la commande : 
+
+```sh
+npm start
+
+```
+
+Par la suite passez sur le port 3001 sur le Browser.
+
 
 
 ### Date de sortie du JEU
