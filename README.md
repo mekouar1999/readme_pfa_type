@@ -6,16 +6,24 @@ Lien_projet ou je peux voir le kanban,roadmap et taches
 
 ```
 
+## Projet en cours de réalisation par :
 
-Projet en cours de réalisation par : NOM_ETUDIANT_1 , NOM_ETUDIANT_2 et NOM_ETUDIANT_3
-M1 MIAGE
+- NOM_ETUDIANT_1 GROUPE_ETUDIANT_1
+- NOM_ETUDIANT_2 GROUPE_ETUDIANT_2
+- NOM_ETUDIANT_3 GROUPE_ETUDIANT_3
+- NOM_ETUDIANT_4 GROUPE_ETUDIANT_4
+
 
 ## Fonctionnalités proposé
 
-- Fonctionnalités 1
-- Fonctionnalités 1
-- choix entre 3 types de niveaux 
-- choix entre 3 types de niveaux 
+- Fonctionnalités 1 ( User Story 1 ) 
+- Fonctionnalités 2 ( User Story 2 ) 
+- Fonctionnalités 3 ( User Story 3 ) 
+- Fonctionnalités 4 ( User Story 4 ) 
+- Fonctionnalités 5 ( User Story 5 ) 
+- Fonctionnalités 6 ( User Story 6 ) 
+- Fonctionnalités 7 ( User Story 7 ) 
+
 
 ## Technologies ( exemples de technologies pour un jeux web , mettez vos technologies ) 
 
