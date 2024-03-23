@@ -25,20 +25,23 @@ Lien_projet ou je peux voir le kanban,roadmap et taches
 - Fonctionnalités 7 ( User Story 7 ) 
 
 
-## Technologies ( exemples de technologies pour un jeux web , mettez vos technologies ) 
+## Technologies
 
-- [Node.JS]
-- [Visual Studio Code ]
-- [HTML 5 CSS 3]
-- [Express JS]
-- [Socket.io]
+- [Node.js](https://nodejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [ReactJS](https://reactjs.org/)
+- [Express JS](https://expressjs.com/)
+- [Socket.io](https://socket.io/)
+- [MongoDb](https://www.mongodb.com/)
+- [TailWind](https://tailwindcss.com/)
 
 ## Installation
 
-[Node.js](https://nodejs.org/) est requis pour pouvoir exécuter cette application , de ce fait , la commande ci dessous vous installera tous les modules néccésaire au fonctionnement de notre jeux. ( Server -> Node Js ; Client -> html css js ; Comunication Front/Back : Socket.io .
+[Node.js](https://nodejs.org/) est requis pour pouvoir exécuter cette application. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
 
 ```sh
 npm install
+
 ```
 
 ### Execution de l'application web
